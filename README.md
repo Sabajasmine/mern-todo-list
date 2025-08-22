@@ -1,6 +1,6 @@
-# 📝 MERN Todo App  
+# 📝 Todo App  
 
-A simple **Todo App** built with **MongoDB, Express, React, and Node.js (MERN)** 🚀  
+A simple **Todo App** built with ** MERN Stack** 🚀  
 
 🌐 **Live Demo:** [Click Here](https://mern-todo-list-1-vk36.onrender.com)  
 
