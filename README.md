@@ -2,7 +2,7 @@
 
 A simple **Todo App** built with ** MERN Stack** 🚀  
 
-🌐 **Live Demo:** 
+🌐 **Live Demo:** [frontend](https://mern-todo-list-2.onrender.com)
                   [backend](https://mern-todo-list-1-vk36.onrender.com)  
 
 
